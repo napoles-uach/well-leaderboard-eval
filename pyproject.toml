@@ -26,7 +26,7 @@ dependencies = [
   "safetensors>=0.4",
   "neuraloperator==0.3.0",
   # Pin The Well benchmark code to v1.1.0
-  "the-well-benchmark @ git+https://github.com/PolymathicAI/the_well.git@v1.1.0",
+  "the-well-benchmark @ git+https://github.com/PolymathicAI/the_well.git",
 ]
 
 [project.optional-dependencies]
